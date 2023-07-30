@@ -1,0 +1,4 @@
+content,tokenized_content,sentiment,sentiment_type
+@user you mean the purolator uniform?,"['mean', 'purolator', 'uniform']",-0.3125,Negative
+i hate purolator… they are the worse type of delivery company,"['hate', 'purolator…', 'worse', 'type', 'delivery', 'company']",-0.6000000000000001,Negative
+everytime amazon uses purolator they be fucking the delivery up,"['overtime', 'amazon', 'us', 'purolator', 'fucking', 'delivery']",-0.6,Negative
